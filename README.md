@@ -1,6 +1,6 @@
 # UNIX Socket Server
 ### University task
-##### ASCII C
+##### ASCII C, Socket
 #### Running
 *makefile* (in case you - the reader don't know how it works: type 'make' in terminal while in project directory and the magic will happen)
 #### Description
